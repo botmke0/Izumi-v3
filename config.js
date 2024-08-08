@@ -33,7 +33,7 @@ module.exports = {
   BOT_NAME: process.env.BOT_NAME || "𝚰𝚭𝐔𝚳𝚰-𝚅3",
   SUDO: process.env.SUDO || null,
   LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
-  STICKER_PACKNAME: process.env.STICKER_PACKNAME || "Izumi-v3,❤️",
+  STICKER_PACKNAME: process.env.STICKER_PACKNAME || "𝆕🍷⋆ꩌ𝐊ᴜᴛᴛᴜᚐ 𝐗ᴇʀ𔘓세르🌺᭕",
   AUDIO_DATA: process.env.AUDIO_DATA || "Eʏᴘᴢ;Iᴢᴜᴍɪ-ᴠ3;https://i.imgur.com/cO0TZJv.jpeg",
   PROCESSNAME: process.env.PROCESSNAME || "Izumi-v3",
   AUTHOR: process.env.AUTHOR || "Eypz God",
